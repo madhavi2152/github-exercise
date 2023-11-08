@@ -1,1 +1,2 @@
 print("six")
+print("six")
